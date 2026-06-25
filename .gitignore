@@ -1,0 +1,11 @@
+# Ignore build artifacts
+*.exe
+*.obj
+*.o
+*.exe.stackdump
+/build/
+
+# Visual Studio / VS Code
+.vscode/
+*.vcxproj*
+*.sln
